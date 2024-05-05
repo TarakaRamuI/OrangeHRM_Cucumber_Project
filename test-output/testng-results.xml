@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-27T15:58:34 IST" name="Default suite" finished-at="2024-03-27T15:59:10 IST" duration-ms="35857">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.Flights_functions_Runner@5e600dd5]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-03-27T15:58:34 IST" name="Default test" finished-at="2024-03-27T15:59:10 IST" duration-ms="35857">
+      <class name="testRunner.Flights_functions_Runner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:testRunner.Flights_functions_Runner@5e600dd5]" started-at="2024-03-27T15:58:34 IST" name="setUpClass" finished-at="2024-03-27T15:58:35 IST" duration-ms="984" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2806d6da]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.Flights_functions_Runner@5e600dd5]" started-at="2024-03-27T15:58:35 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-27T15:58:44 IST" duration-ms="9557" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Check registration functionality with valid inputs"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration Page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.Flights_functions_Runner@5e600dd5]" started-at="2024-03-27T15:58:44 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-27T15:58:52 IST" duration-ms="8066" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Check Login functionality"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration Page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.Flights_functions_Runner@5e600dd5]" started-at="2024-03-27T15:58:52 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-27T15:58:58 IST" duration-ms="5568" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration Page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.Flights_functions_Runner@5e600dd5]" started-at="2024-03-27T15:58:58 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-27T15:59:03 IST" duration-ms="5580" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration Page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.Flights_functions_Runner@5e600dd5]" started-at="2024-03-27T15:59:03 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-03-27T15:59:09 IST" duration-ms="5965" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Registration Page"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunner.Flights_functions_Runner@5e600dd5]" started-at="2024-03-27T15:59:09 IST" name="tearDownClass" finished-at="2024-03-27T15:59:10 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.Flights_functions_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
